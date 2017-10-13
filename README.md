@@ -1,6 +1,7 @@
 # blog
 
- 
+ node文件更新自动重载
+#### 8. [node文件更新自动重载](https://github.com/Liqihan/blog/issues/6)
 #### 7. [scrollInToView方法](https://github.com/Liqihan/blog/issues/8)
 #### 6. [用户操作的历史记录（前进，后退，清空）](https://github.com/Liqihan/blog/issues/7)
 #### 5. [前端持久化 -- evercookie](https://github.com/Liqihan/blog/issues/5)
