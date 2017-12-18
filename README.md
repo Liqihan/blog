@@ -1,6 +1,6 @@
 # blog
 
- node文件更新自动重载
+
 #### 9. [前端代码异常监控](https://github.com/Liqihan/blog/issues/9)
 #### 8. [node文件更新自动重载](https://github.com/Liqihan/blog/issues/6)
 #### 7. [scrollInToView方法](https://github.com/Liqihan/blog/issues/8)
