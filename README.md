@@ -1,6 +1,7 @@
 # blog
 平常写一点文章，记录下好的代码，
 
+#### 11. [淘宝 flexible.js 漏洞修补：记一次 rem 踩坑记录(转载)](https://github.com/Liqihan/blog/issues/11)
 #### 10. [Hybrid APP架构设计思路(转载)](https://github.com/Liqihan/blog/issues/9)
 #### 9. [前端代码异常监控](https://github.com/Liqihan/blog/issues/9)
 #### 8. [node文件更新自动重载](https://github.com/Liqihan/blog/issues/6)
