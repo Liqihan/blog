@@ -1,4 +1,4 @@
-// 给 Array 对象增加一个原型方法，用于删除数组条目中重复的条目(可能有多
+// 给 Array 对象增加一个原型方法，用于删除数组条目中重复的条目
 Array.prototype.distinct = function() {
     var ret = [];
     for (var i = 0; i < this.length; i++) {
