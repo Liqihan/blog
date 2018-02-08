@@ -8,3 +8,7 @@ var a = new Promise(function(resolve, reject) {
 }).then(() => {
     console.log(333);
 })
+Promise.resolve('234234').then((data) => {
+    console.log(1231231231232);
+    console.log(data);
+})
