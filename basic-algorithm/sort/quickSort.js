@@ -2,7 +2,7 @@ function quickSort(arr) {
     if (arr.length < 2) {
         return arr;
     }
-    var tmp = arr.splice(Math.floor(arr.length / 2), 1),
+    var tmp = arr.splice(Math.floor(arr.length / 2), 1)[0],
         arrRight = [],
         arrLeft = [];
     for (var i = 0; i < arr.length; i++) {
