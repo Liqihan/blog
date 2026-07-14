@@ -59,7 +59,7 @@
 - [014 Long-Term Memory 是什么？](02-Memory-Context/014-Long-TermMemory是什么.md)
 - [015 Working Memory 是什么？](02-Memory-Context/015-WorkingMemory是什么.md)
 - [016 Agent 如何做上下文压缩？](02-Memory-Context/016-Agent如何做上下文压缩.md)
-- 017 Context Window 为什么成为瓶颈？
+- [017 Context Window 为什么成为瓶颈？](02-Memory-Context/017-ContextWindow为什么成为瓶颈.md)
 - 018 Agent 如何管理长期知识？
 - 019 Agent 如何管理用户偏好？
 - 020 Memory 为什么最终会变成数据库问题？
