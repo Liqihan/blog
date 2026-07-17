@@ -62,7 +62,7 @@
 - [017 Context Window 为什么成为瓶颈？](02-Memory-Context/017-ContextWindow为什么成为瓶颈.md)
 - [018 Agent 如何管理长期知识？](02-Memory-Context/018-Agent如何管理长期知识.md)
 - [019 Agent 如何管理用户偏好？](02-Memory-Context/019-Agent如何管理用户偏好.md)
-- 020 Memory 为什么最终会变成数据库问题？
+- [020 Memory 为什么最终会变成数据库问题？](02-Memory-Context/020-Memory为什么最终会变成数据库问题.md)
 
 ---
 
