@@ -68,7 +68,7 @@
 
 ## 第三章：Tool Use
 
-- 021 Agent 为什么需要 Tool Calling？
+- [021 Agent 为什么需要 Tool Calling？](03-Tool-Use/021-Agent为什么需要ToolCalling.md)
 - 022 Function Calling 是怎么工作的？
 - 023 Agent 如何选择工具？
 - 024 Agent 如何避免错误调用工具？
